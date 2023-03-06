@@ -54,15 +54,7 @@
 
 <a href="https://github.com/AlexShatokhin" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexShatokhin&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/AlexShatokhin/todos" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexShatokhin&repo=todos&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/AlexShatokhin/MarvelReact" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexShatokhin&repo=MarvelReact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br />
-
-<br />
-
-<div width="100%" align="center"><a href="https://github.com/AlexShatokhin/economics" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexShatokhin&repo=economics&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/AlexShatokhin/VladimirMayakovsky" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexShatokhin&repo=VladimirMayakovsky&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-
-<br />
+<br/>
 
 ## Codewars  
 ![](https://sun9-37.userapi.com/impg/BHDawrdgMPpJtXbJENJS-H_m118R2mKgIbhoNg/tLLYXkP3dDs.jpg?size=356x43&quality=96&sign=d247e5c607e0accf065f5fc9ba3541fa&type=album)  
