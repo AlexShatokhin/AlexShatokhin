@@ -52,7 +52,10 @@
 
 ### Badges
 
-<a href="https://github.com/AlexShatokhin" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexShatokhin&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=Badges&username=Alex" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Alex" height="150" alt="languages graph"  />
+</div>
 
 <br/>
 
