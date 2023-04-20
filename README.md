@@ -59,7 +59,7 @@
 <br/>
 
 ## Codewars  
-![](https://sun9-37.userapi.com/impg/BHDawrdgMPpJtXbJENJS-H_m118R2mKgIbhoNg/tLLYXkP3dDs.jpg?size=356x43&quality=96&sign=d247e5c607e0accf065f5fc9ba3541fa&type=album)  
+<a href="https://www.codewars.com/users/AlexShatokhin" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/67309300/233470625-f92e4df2-7eba-4ea3-acf9-f66a472bc4f3.png" alt="Codewars" /></a>  
 
 <br />
 
