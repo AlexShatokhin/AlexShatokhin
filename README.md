@@ -48,9 +48,7 @@
 <br/>
 
 ## Codewars  
-<div align = "center">
-  {![Codewars](https://github.r2v.ch/codewars?user=AlexShatokhin)}
-</div>
+![Codewars](https://github.r2v.ch/codewars?user=AlexShatokhin)
 
 
 <br />
