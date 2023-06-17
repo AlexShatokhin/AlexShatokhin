@@ -48,6 +48,7 @@
 <br/>
 
 ## Codewars  
+<img src = "https://github.r2v.ch/codewars?user=AlexShatokhin"/>
 ![Codewars](https://github.r2v.ch/codewars?user=AlexShatokhin)
 
 
