@@ -59,7 +59,7 @@
 <br/>
 
 ## Codewars  
-<a href="https://www.codewars.com/users/AlexShatokhin" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/67309300/233470625-f92e4df2-7eba-4ea3-acf9-f66a472bc4f3.png" alt="Codewars" /></a>  
+![Codewars](https://github.r2v.ch/codewars?user=andreasvogt89&stroke=%23BB432C)
 
 <br />
 
