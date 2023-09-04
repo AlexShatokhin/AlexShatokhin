@@ -3,7 +3,7 @@
 
 ### Socials
 
-<p align="left"> 
+<p style = "display: flex; justify-content: space-around" align="left"> 
   <a href="https://discord.com/users/Sosa#0926" target="_blank" rel="noreferrer">
     <img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="64" height="64" />
   </a>
