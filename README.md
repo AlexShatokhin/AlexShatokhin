@@ -4,16 +4,16 @@
 ### Socials
 
 <p style = "display: flex; justify-content: space-around" align="left"> 
-  <a href="https://discord.com/users/Sosa#0926" target="_blank" rel="noreferrer">
+  <a style = "text-decoration: none" href="https://discord.com/users/Sosa#0926" target="_blank" rel="noreferrer">
     <img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="64" height="64" />
   </a>
-  <a href="https://www.github.com/AlexShatokhin" target="_blank" rel="noreferrer">
+  <a style = "text-decoration: none" href="https://www.github.com/AlexShatokhin" target="_blank" rel="noreferrer">
     <img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="64" height="64" />
   </a> 
   <a style = "text-decoration: none" href="http://www.instagram.com/sasssashka" target="_blank" rel="noreferrer">
     <img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="64" height="64" />
   </a>
-  <a href="https://t.me/sashatokhin" target="_blank" rel="noreferrer">
+  <a style = "text-decoration: none" href="https://t.me/sashatokhin" target="_blank" rel="noreferrer">
     <img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png" width="64" height="64" />
   </a>
 </p>
