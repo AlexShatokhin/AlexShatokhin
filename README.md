@@ -64,7 +64,7 @@
 ## Badges
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=AlexShatokhin" height="200" alt="languages graph"  />
+  <img src="https://myreadme.vercel.app/api/embed/AlexShatokhin?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 </div>
 
 <br/>
