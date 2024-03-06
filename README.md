@@ -1,9 +1,6 @@
 ## <H1>Привет 👋, Меня зовут Саша! </H1> 
   
-
-### Socials
-
-<p style = "display: flex; justify-content: space-around" align="center"> 
+<p style = "display: flex; justify-content: space-around; width: 800px" align="center"> 
   <a style="margin: 10px" style = "text-decoration: none" href="https://discord.com/users/Sosa#0926" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="80" height="80" />
   </a>
