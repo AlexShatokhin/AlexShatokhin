@@ -1,4 +1,4 @@
-## <H1>hI 👋, I'm Alex! </H1> 
+## <H1>Hi👋, I'm Alex! </H1> 
   
 <p style = "display: flex; justify-content: space-around; width: 800px" align="center"> 
   <a style="margin: 10px" style = "text-decoration: none" href="https://discord.com/users/Sosa#0926" target="_blank" rel="noreferrer">
