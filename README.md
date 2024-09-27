@@ -11,27 +11,27 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="55" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=css" height="55" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=sass" height="55" alt="sass logo"  />
+  <img src="https://skillicons.dev/icons?i=sass" height="50" alt="sass logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=js" height="55" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=ts" height="55" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=react" height="55" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=redux" height="55" alt="redux logo"  />
+  <img src="https://skillicons.dev/icons?i=redux" height="50" alt="redux logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=styledcomponents" height="55" alt="styledcomponents logo"  />
+  <img src="https://skillicons.dev/icons?i=styledcomponents" height="50" alt="styledcomponents logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=express" height="55" alt="express logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="50" alt="express logo"  />
   <img width="10" />
-  <img src="https://cdn.simpleicons.org/socketdotio/010101" height="55" alt="socketio logo"  />
+  <img src="https://cdn.simpleicons.org/socketdotio/010101" height="50" alt="socketio logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="55" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
 </div>
 
 ###
