@@ -11,27 +11,27 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="65" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="55" alt="html5 logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=css" height="65" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="55" alt="css3 logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=sass" height="65" alt="sass logo"  />
+  <img src="https://skillicons.dev/icons?i=sass" height="55" alt="sass logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=js" height="65" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="55" alt="javascript logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=ts" height="65" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="55" alt="typescript logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=react" height="65" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="55" alt="react logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=redux" height="65" alt="redux logo"  />
+  <img src="https://skillicons.dev/icons?i=redux" height="55" alt="redux logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=styledcomponents" height="65" alt="styledcomponents logo"  />
+  <img src="https://skillicons.dev/icons?i=styledcomponents" height="55" alt="styledcomponents logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=express" height="65" alt="express logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="55" alt="express logo"  />
   <img width="10" />
-  <img src="https://cdn.simpleicons.org/socketdotio/010101" height="65" alt="socketio logo"  />
+  <img src="https://cdn.simpleicons.org/socketdotio/010101" height="55" alt="socketio logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="65" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="55" alt="mysql logo"  />
 </div>
 
 ###
@@ -53,11 +53,5 @@
   <img src="https://streak-stats.demolab.com?user=AlexShatokhin&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexShatokhin&radius=20&theme=github-dark-dimmed&area=true&order=5&hide_title=true&hide_border=true" height="340" alt="activity-graph graph"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/AlexShatokhin/AlexShatokhin/output/snake.svg" alt="Snake animation" />
 
 ###
