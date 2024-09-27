@@ -1,70 +1,63 @@
-## <H1>Hi👋, I'm Alex! </H1> 
-  
-<p style = "display: flex; justify-content: space-around; width: 800px" align="center"> 
-  <a style="margin: 10px" style = "text-decoration: none" href="https://discord.com/users/Sosa#0926" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="80" height="80" />
-  </a>
-  <a style="margin: 10px" style = "text-decoration: none" href="https://www.github.com/AlexShatokhin" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="80" height="80" />
-  </a> 
-  <a style="margin: 10px" style = "text-decoration: none" href="http://www.instagram.com/sasssashka" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="80" height="80" />
-  </a>
-  <a style="margin: 10px"  style = "text-decoration: none" href="https://t.me/sashatokhin" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png" width="80" height="80" />
-  </a>
-</p>
+<br clear="both">
 
+<h2 align="left">Hi 👋! My name is Alex and I'm a frontend developer, from Tiraspol</h2>
 
+###
 
+<br clear="both">
 
-<br/>  
+<img align="right" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmRobXZuZHBzdWM0bHlncWpjNmpya3owOXQ0bmMzdG03MTh1ZGF5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/105TPTlFrqaW1G/giphy.webp"  />
 
-
-## Languages and Tools  
-<div align="center">  
-
-
-<p>
-  <a style="margin: 10px" href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="80" /></a>  
-  <a style="margin: 10px" href="https://www.w3schools.com/css/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="80" /></a>  
-  <a style="margin: 10px" href="https://sass-lang.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="80" /></a>  
-</p>
-
-<p>
-  <a style="margin: 10px" href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="80" /></a>
-  <a style="margin: 10px" href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="80" /></a>  
-  <a style="margin: 10px" href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="80" /></a>  
-  <a style="margin: 10px" href="https://redux.js.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="80" /></a>  
-</p>
-<p>
-  <a style="margin: 10px" href="https://styled-components.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="80" />  
-  <a style="margin: 10px" href="https://www.mysql.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="80" /></a>
-</p>
-  
-</div>  
-
-<br/>  
-
-
-## Badges
+###
 
 <div align="center">
-  <img src="https://myreadme.vercel.app/api/embed/AlexShatokhin?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+  <img src="https://skillicons.dev/icons?i=html" height="65" alt="html5 logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=css" height="65" alt="css3 logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=sass" height="65" alt="sass logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=js" height="65" alt="javascript logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=ts" height="65" alt="typescript logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=react" height="65" alt="react logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=redux" height="65" alt="redux logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=styledcomponents" height="65" alt="styledcomponents logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=express" height="65" alt="express logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/socketdotio/010101" height="65" alt="socketio logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="65" alt="mysql logo"  />
 </div>
 
-<br/>
+###
 
-## Codewars  
-<div align = "center"> 
-  <img src = "https://github.r2v.ch/codewars?user=AlexShatokhin"/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="100" height="70" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="100" height="70" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="100" height="70" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="100" height="70" alt="telegram logo"  />
 </div>
 
+###
 
+<br clear="both">
 
-<br />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexShatokhin&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexShatokhin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=AlexShatokhin&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexShatokhin&radius=20&theme=github-dark-dimmed&area=true&order=5&hide_title=true&hide_border=true" height="340" alt="activity-graph graph"  />
+</div>
 
+###
 
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/AlexShatokhin/AlexShatokhin/output/snake.svg" alt="Snake animation" />
 
-
+###
