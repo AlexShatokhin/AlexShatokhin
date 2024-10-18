@@ -25,8 +25,6 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=redux" height="50" alt="redux logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=styledcomponents" height="50" alt="styledcomponents logo"  />
-  <img width="10" />
   <img src="https://skillicons.dev/icons?i=express" height="50" alt="express logo"  />
   <img width="10" />
   <img src="https://cdn.simpleicons.org/socketdotio/010101" height="50" alt="socketio logo"  />
@@ -38,21 +36,21 @@
 
 <div align="center">
 
-  <a href = "https://discordapp.com/users/sashokrutoy">
+  <a style = "text-decoration: none" href = "https://www.instagram.com/sasssashka/">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="100" height="60" alt="instagram logo"  />
   </a>
   
 
-  <a href = "https://www.instagram.com/sasssashka/">
+  <a style = "text-decoration: none" href = "https://discordapp.com/users/sashokrutoy">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="100" height="60" alt="discord logo"  />
   </a>
   
 
-  <a href = "sashatokhin.04@gmail.com">
+  <a style = "text-decoration: none" href = "sashatokhin.04@gmail.com">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="100" height="60" alt="gmail logo"  />
   </a>
   
-  <a href = "https://t.me/sashatokhin">
+  <a style = "text-decoration: none" href = "https://t.me/sashatokhin">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="100" height="60" alt="telegram logo"  />
   </a>
 
