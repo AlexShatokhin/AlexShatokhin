@@ -9,48 +9,32 @@
 <img align="right" height="230" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmRobXZuZHBzdWM0bHlncWpjNmpya3owOXQ0bmMzdG03MTh1ZGF5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/105TPTlFrqaW1G/giphy.webp"  />
 
 ###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=sass" height="50" alt="sass logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=redux" height="50" alt="redux logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=express" height="50" alt="express logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/socketdotio/010101" height="50" alt="socketio logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,redux,prisma,mysql,express,nestjs" />
+    <img src="https://cdn.simpleicons.org/socketdotio/010101" height="50" alt="socketio logo"  />
+  </a>
+</p>
 
 ###
 
 <div align="center">
 
-  <a style = "text-decoration: none" href = "https://www.instagram.com/sasssashka/">
+  <a style = "text-decoration: none"  target="_blank" href = "https://www.instagram.com/sasssashka/">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="100" height="60" alt="instagram logo"  />
   </a>
   
 
-  <a style = "text-decoration: none" href = "https://discordapp.com/users/sashokrutoy">
+  <a style = "text-decoration: none" target="_blank" href = "https://discordapp.com/users/sashokrutoy">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="100" height="60" alt="discord logo"  />
   </a>
   
 
-  <a style = "text-decoration: none" href = "sashatokhin.04@gmail.com">
+  <a style = "text-decoration: none" target="_blank" href = "mailto:sashatokhin.04@gmail.com">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="100" height="60" alt="gmail logo"  />
   </a>
   
-  <a style = "text-decoration: none" href = "https://t.me/sashatokhin">
+  <a style = "text-decoration: none" target="_blank" href = "https://t.me/sashatokhin">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="100" height="60" alt="telegram logo"  />
   </a>
 
@@ -68,3 +52,4 @@
 </div>
 
 ###
+
